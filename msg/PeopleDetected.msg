@@ -1,0 +1,5 @@
+std_msgs/Header header 
+std_msgs/Float64MultiArray people_data
+std_msgs/Float64MultiArray cameraPose_inTorsoFrame
+std_msgs/Float64MultiArray cameraPose_inRobotFrame
+std_msgs/Int64 camera_id 
