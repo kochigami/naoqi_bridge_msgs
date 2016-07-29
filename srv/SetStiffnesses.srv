@@ -1,0 +1,4 @@
+# Get stiffnesses
+string joint_name
+float64 stiffness
+---
