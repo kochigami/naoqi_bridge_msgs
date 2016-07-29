@@ -1,0 +1,4 @@
+# Get stiffnesses
+naoqi_bridge_msgs/JointNames joint_name
+---
+std_msgs/Float64MultiArray status
