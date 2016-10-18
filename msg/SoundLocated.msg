@@ -1,4 +1,7 @@
-std_msgs/Header header
-std_msgs/Float64 threshold
-std_msgs/Float64MultiArray location
-std_msgs/Float64MultiArray head_position
+Header header
+float64 azimuth
+float64 elevation
+float64 confidence
+float64 energy
+geometry_msgs/Twist head_position_frame_torso
+geometry_msgs/Twist head_position_frame_robot
