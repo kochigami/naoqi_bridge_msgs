@@ -4,4 +4,4 @@ string contextName
 string typeName
 # type: "start" "active" "activatable" "slot"
 ---
-bool success
+string[] rules
