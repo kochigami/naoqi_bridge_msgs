@@ -5,4 +5,4 @@ float64 y_angle
 float64 distance
 geometry_msgs/Twist camera_position_from_frame_robot
 ---
-string engagement_zone 
+uint8 engagement_zone 
