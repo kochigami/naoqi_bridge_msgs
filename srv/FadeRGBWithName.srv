@@ -1,0 +1,5 @@
+string led_name
+string color_name # “white”, “red”, “green”, “blue”, “yeagenta”, “cyan"
+float64 time_to_fade
+---
+bool success
