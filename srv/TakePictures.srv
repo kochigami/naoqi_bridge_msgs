@@ -1,0 +1,4 @@
+int16 number
+string name
+---
+bool success
